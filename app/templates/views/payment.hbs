@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>  
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{title}}</title>
+        <link rel="icon" href="/img/icon.png">
+        <link rel="stylesheet" href="/css/styles.css">
+    </head>
+    <body>
+        <div class="main-content">
+            {{>header}}
+            <div class="main-image">
+                <img src="./img/swift.png" class="main-image__img">
+            </div>
+            <p class="main-title">{{message}}</p>
+            <div class="main-body">
+                <button class="back-button">Back to application</button>
+            </div>
+        </div>
+        {{>footer}}
+        <script src="/js/payment.js"></script>
+    </body>
+
+</html>
