@@ -35,7 +35,7 @@ OSXVPN is a fully automated VPN subscription platform developed entirely in **Ja
 
 ## Live Demo
 The official website is available at:
-[http://osxnetwork.top/](http://osxnetwork.top/)
+[https://osxnetwork.top/](https://osxnetwork.top/)
 
 ## Screenshots
 ![Screenshot 1](mnt/1.png)
